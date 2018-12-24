@@ -1,0 +1,11 @@
+graph.facebook.com
+api.leanplum.com
+e.crashlytics.com
+settings.crashlytics.com
+app-measurement.com
+analytics.plex.tv
+reports.crashlytics.com
+incoming.telemetry.mozilla.org
+api-branch.io
+csi.gstatic.com
+api.instabug.com
