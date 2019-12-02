@@ -19,7 +19,7 @@ data.mistat.intl.xiaomi.com
 find.api.micloud.xiaomi.net
 fr.app.chat.global.xiaomi.net
 pre.ads.justpremium.com
-reslover.msg.global.xiaomi.net
+resolver.msg.global.xiaomi.net
 sessions.bugsnag.com
 facebook.com
 instagram.com
