@@ -9,3 +9,8 @@ incoming.telemetry.mozilla.org
 api-branch.io
 csi.gstatic.com
 api.instabug.com
+advertising.gov.au
+app.adjust.com
+as.atlassian.com
+authbe.sec.intl.miui.com
+cdn.advertising.gov,au
